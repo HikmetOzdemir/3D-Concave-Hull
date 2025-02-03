@@ -11,7 +11,6 @@ This repository contains a simple Python demonstration that I created for fun. I
 - **Dynamic Point Generation:** Generates up to 128 random 3D points.
 - **Real-Time Concave Hull Calculation:** Uses an alpha shape algorithm to compute and update the concave hull as points are added.
 - **Rotating 3D Visualization:** Displays the point cloud and hull in a 3D plot that rotates slowly to give a complete perspective.
-- **Transparent Background:** The plot has a transparent background, making the visualization more visually appealing.
 
 ## Getting Started
 
